@@ -1,0 +1,7 @@
+# Office source documents are kept outside the public repository.
+*.doc
+*.docx
+
+# Local operating-system and editor files.
+.DS_Store
+.vscode/
