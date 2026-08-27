@@ -3,7 +3,7 @@ window.resumeData = {
     "name": "Mikalai Smatrytski (Nikolai Smotritsky)",
     "label": "Data Engineer",
     "email": "nsmotritski@gmail.com",
-    "phone": "+48 573-104-940",
+    "phone": "",
     "location": {
       "city": "Wroclaw",
       "countryCode": "PL"
